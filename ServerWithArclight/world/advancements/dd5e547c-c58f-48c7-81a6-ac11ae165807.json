@@ -4956,9 +4956,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-03-19 13:16:19 -0600",
       "minecraft:deep_ocean": "2024-03-16 03:45:12 -0600",
       "minecraft:sunflower_plains": "2024-03-16 02:25:57 -0600",
       "minecraft:cherry_grove": "2024-03-18 01:14:44 -0600",
+      "minecraft:birch_forest": "2024-03-19 13:15:49 -0600",
       "minecraft:bamboo_jungle": "2024-03-13 22:26:48 -0600",
       "minecraft:wooded_badlands": "2024-03-14 15:50:58 -0600",
       "minecraft:badlands": "2024-03-14 23:31:57 -0600",
@@ -14306,153 +14308,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-03-19 00:36:41 -0600"
-    },
-    "done": false
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2024-03-18 23:58:16 -0600"
-    },
-    "done": true
-  },
-  "nature_arise:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2024-03-19 00:13:07 -0600"
-    },
-    "done": true
-  },
-  "totw_modded:derelict_grass_tower": {
-    "criteria": {
-      "derelict_grass": "2024-03-19 00:00:35 -0600"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_coalburner": {
-    "criteria": {
-      "has_item": "2024-03-18 23:33:48 -0600"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
-    "criteria": {
-      "has_yellow_bioshroom": "2024-03-19 00:24:35 -0600"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
-    "criteria": {
-      "has_yellow_bioshroom": "2024-03-19 00:24:35 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-03-18 23:57:31 -0600"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_diesel": {
-    "criteria": {
-      "has_item": "2024-03-18 23:33:48 -0600"
-    },
-    "done": true
-  },
-  "regions_unexplored:mycologist": {
-    "criteria": {
-      "yellow_bioshroom": "2024-03-19 00:24:35 -0600"
-    },
-    "done": false
-  },
   "ad_astra:moon_dungeon": {
     "criteria": {
       "moon_dungeon": "2024-03-18 23:23:50 -0600"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/cacophonium": {
-    "criteria": {
-      "has_item": "2024-03-19 00:05:42 -0600"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2024-03-18 23:35:47 -0600"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_woodburner": {
-    "criteria": {
-      "has_item": "2024-03-18 23:33:48 -0600"
     },
     "done": true
   },
@@ -14468,15 +14326,21 @@
     },
     "done": true
   },
-  "nature_arise:recipes/building_blocks/stripped_fir_wood": {
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
     "criteria": {
-      "has_log": "2024-03-19 00:13:07 -0600"
+      "has_item": "2024-03-18 23:33:48 -0600"
     },
     "done": true
   },
-  "nature_arise:recipes/building_blocks/fir_planks_from_wood": {
+  "railways:recipes/misc/crafting/smokestack_diesel": {
     "criteria": {
-      "has_log": "2024-03-19 00:13:07 -0600"
+      "has_item": "2024-03-18 23:33:48 -0600"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2024-03-18 23:33:48 -0600"
     },
     "done": true
   },
@@ -14510,9 +14374,873 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-03-18 23:35:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-03-18 23:57:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-03-18 23:58:16 -0600"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2024-03-19 00:00:35 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2024-03-19 00:05:42 -0600"
+    },
+    "done": true
+  },
+  "nature_arise:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-03-19 00:13:07 -0600"
+    },
+    "done": true
+  },
+  "nature_arise:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2024-03-19 00:13:07 -0600"
+    },
+    "done": true
+  },
+  "nature_arise:recipes/building_blocks/fir_planks_from_wood": {
+    "criteria": {
+      "has_log": "2024-03-19 00:13:07 -0600"
+    },
+    "done": true
+  },
   "nethers_exoticism:rambutan_adv": {
     "criteria": {
       "rambutan_adv": "2024-03-19 00:23:03 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-03-19 00:24:35 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-03-19 00:24:35 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2024-03-19 00:24:35 -0600"
+    },
+    "done": false
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2024-03-19 10:26:50 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-19 10:26:58 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-03-19 10:29:13 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-03-19 10:29:13 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-03-19 11:08:25 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-03-19 13:16:24 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-03-20 15:10:52 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2024-03-20 23:32:40 -0600"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-03-20 23:32:40 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:42 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-03-20 23:43:43 -0600"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea": {
+    "criteria": {
+      "has_item": "2024-03-21 00:15:43 -0600"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea_leaves": {
+    "criteria": {
+      "has_the_recipe": "2024-03-21 00:15:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-03-21 00:15:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-03-21 00:15:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-03-21 00:15:51 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_blinds": {
+    "criteria": {
+      "has_log": "2024-03-21 00:23:53 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-03-21 00:23:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-03-21 00:23:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2024-03-21 00:23:53 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2024-03-21 00:27:38 -0600"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_hedge": {
+    "criteria": {
+      "has_leaves": "2024-03-21 00:29:01 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-03-21 00:31:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-03-21 01:29:15 -0600"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-21 13:29:28 -0600"
+    },
+    "done": false
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass1": {
+    "criteria": {
+      "recipe_condition": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_blue2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-03-21 12:14:19 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2024-03-21 12:41:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-03-21 12:14:19 -0600"
     },
     "done": true
   },
